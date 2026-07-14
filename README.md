@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/HadesPV/HadesPV/main/assets/hades-profile.jpg" 
-     alt="𝓝𝔂𝔁" 
+     alt="ꫝꪖ​ᦔꫀ𝘴" 
      width="100%" 
      style="border-radius: 16px; border: 3px solid #4b0082; box-shadow: 0 0 40px rgba(139, 0, 139, 0.6);">
 
@@ -17,7 +17,7 @@
 
 ---
 
-### 🌑 About the Void
+### 🌑 
 
 ```txt
 **"꒐ꋊ ꓄ꁝꏂ ꄲꃳꇙ꒐꒯꒐ꋬꋊ ꒯ꏂꉣ꓄ꁝꇙ ꄲꊰ ꓄ꁝꏂ ꒤ꋊ꒯ꏂꋪꅐꄲꋪ꒒꒯, ꁝꋬ꒯ꏂꇙ ꅐꋬ꒒ꀘꇙ ꉔꋪꄲꅐꋊꏂ꒯ ꒐ꋊ ꇙꁝꋬ꒯ꄲꅐ ꋬꋊ꒯ ꃳꄲꋊꏂ, ꁝ꒐ꇙ ꇙ꒐꒒ꏂꋊ꓄ ꓄ꁝꋪꄲꋊꏂ ꇙꅐꋬ꒒꒒ꄲꅐ꒐ꋊꍌ ꓄ꁝꏂ ꒒꒐ꍌꁝ꓄ ꄲꊰ ꊰꄲꋪꍌꄲ꓄꓄ꏂꋊ ꇙꄲ꒤꒒ꇙ.."**.
